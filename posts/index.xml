@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - YE, Bin</title>
+        <link>/posts/</link>
+        <description>All Posts | YE, Bin</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 15:28:43 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Abc</title>
+    <link>/abc/</link>
+    <pubDate>Fri, 25 Sep 2020 15:28:43 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/abc/</guid>
+    <description><![CDATA[Bonjour Hi.]]></description>
+</item></channel>
+</rss>
