@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - YE, Bin</title>
+        <title>All Posts - YIP, Senlin a.k.a. YE, Bin</title>
         <link>/posts/</link>
-        <description>All Posts | YE, Bin</description>
+        <description>All Posts | YIP, Senlin a.k.a. YE, Bin</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 15:28:43 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Abc</title>
+    <title>说出口</title>
     <link>/abc/</link>
     <pubDate>Fri, 25 Sep 2020 15:28:43 &#43;0800</pubDate>
     <author>Author</author>
     <guid>/abc/</guid>
-    <description><![CDATA[Bonjour Hi.]]></description>
+    <description><![CDATA[<p>Bonjour Hi.</p>
+<p>来自颜浓老师那若干建议，其中一个是：说出口。这也许是给我这回避型人格最好的提示。</p>]]></description>
 </item></channel>
 </rss>
